@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Saiansh
 - 👀 I’m interested in Playing Games and Reading Books
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning JavaScript and Python
 - 📫 You can reach me with my E-Mail:- svn9205@gmail.com
 
 <!---
