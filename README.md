@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Saiansh
-- 👀 I’m interested in Playing Games and Reading Books
-- 🌱 I’m currently learning JavaScript and Python
-- 📫 You can reach me with my E-Mail:- svn9205@gmail.com
+- 👀 I take interest in learning Cybersecurity. 
+- 🌱 I’m currently learning Java and C programming languages
+- 📖 I have basic knowledge of Python and have also learnt basic DBMS software commands.
 
 <!---
 Saiansh19/Saiansh19 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
