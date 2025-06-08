@@ -12,6 +12,7 @@ An IT and Cybersecurity Enthusiast with keen interest in the vast world of techn
 - 🌱 I’m currently learning Java and C programming languages. <br>
 - 📖 I have basic knowledge of Python and have also learnt basic DBMS software commands. <br>
 <br>
+
 ### 🔨 Languages and Tools:
 <br>
 <a href="https://www.cprogramming.com/" target="_blank">
@@ -24,6 +25,7 @@ An IT and Cybersecurity Enthusiast with keen interest in the vast world of techn
   <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" height="42px"/>
 </a>
 <br> 
+
 ### 📊 Github Stats
 <br>
 <p align="center">
