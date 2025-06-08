@@ -5,10 +5,10 @@
     <img src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/linkedin.svg" alt="LinkedIn" height="28px"/>
   </a>
   <a href="https://zorin.com">
-  <img src="assets/Vector.svg" alt="Zorin OS" height="28px"/>
+  <img src="assets/Raster.png" alt="Zorin OS" height="28px"/>
 </a>
 <a href="https://www.reddit.com/user/your-reddit-username">
-  <img src="assets/reddit.svg" alt="Reddit" height="28px"/>
+  <img src="assets/reddit-logo-reddit-icon-transparent-free-png" alt="Reddit" height="28px"/>
 </a>
 </div>
 
