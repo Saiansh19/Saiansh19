@@ -1,7 +1,3 @@
-![Static Badge](https://img.shields.io/badge/Zorin-Forum?logo=zorin&logoSize=auto&color=%23000000&link=https%3A%2F%2Fforum.zorin.com%2Fu%2F100wcharge%2Fsummary) <img alt="Static Badge" src="https://img.shields.io/badge/Reddit-Profile?logo=reddit&logoSize=auto&color=%23FFFFFF&link=https%3A%2F%2Fwww.reddit.com%2Fuser%2F100WCharge%2F">
-
-
-
 - 👋🏻 Hi, I’m Saiansh
 - 👀 I take interest in learning Cybersecurity. 
 - 🌱 I’m currently learning Java and C programming languages
