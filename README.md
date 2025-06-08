@@ -1,4 +1,4 @@
-## Hey 👋, I'm Saiansh!
+## Hi, I'm Saiansh!
 
 <br>
 
@@ -18,7 +18,6 @@
 
 An IT and Cybersecurity Enthusiast with keen interest in the vast world of technology. I have proficiency in coding languages like Java and C, and basic knowledge of Python and HTML. Experience gained in configuring Linux environments and beginner-level understanding of multiple Linux terminal commands.
 
-<br>
 <br>
 
 ---
@@ -52,7 +51,6 @@ An IT and Cybersecurity Enthusiast with keen interest in the vast world of techn
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" height="42px"/>
 </a>
 
-<br>
 <br>
 
 ---
