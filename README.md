@@ -4,13 +4,20 @@
   <a href="https://www.linkedin.com/in/saiansh-nair/">
     <img src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/linkedin.svg" alt="LinkedIn" height="28px"/>
   </a>
-  <a href="https://www.reddit.com/user/100WCharge/">
-    <img src="https://iconduck.com/icons/73122/reddit-logo.svg" alt="Reddit" height="28px"/>
-  </a>
   <a href="https://forum.zorin.com/u/100wcharge/summary">
-    <img src="https://iconduck.com/icons/1745/zorin.svg" alt="Zorin OS" height="28px"/>
+  <img src="https://seeklogo.com/images/Z/zorin-os-logo-394271D1F2-seeklogo.com.svg" alt="Zorin OS" height="28px"/>
+  </a>
+  <a href="https://www.reddit.com/user/100WCharge/">
+  <img src="https://iconduck.com/icons/21306/reddit-logo.svg" alt="Reddit" height="28px"/>
   </a>
 </div>
+<a href="[https://zorin.com](https://forum.zorin.com/u/100wcharge/summary)">
+  <img src="https://seeklogo.com/images/Z/zorin-os-logo-394271D1F2-seeklogo.com.svg" alt="Zorin OS" height="28px"/>
+</a>
+<a href="[https://www.reddit.com/user/your-reddit-username](https://www.reddit.com/user/100WCharge/)">
+  <img src="https://iconduck.com/icons/21306/reddit-logo.svg" alt="Reddit" height="28px"/>
+</a>
+
 
 An IT and Cybersecurity Enthusiast with keen interest in the vast world of technology. I have proficiency in coding languages like Java and C, and basic knowledge of Python and HTML. Experience gained in configuring Linux environments and beginner-level understanding of multiple Linux terminal commands.
 
