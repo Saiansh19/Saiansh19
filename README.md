@@ -8,7 +8,7 @@
   <img src="assets/Raster.png" alt="Zorin OS" height="28px"/>
 </a>
 <a href="https://www.reddit.com/user/your-reddit-username">
-  <img src="assets/reddit-logo-reddit-icon-transparent-free-png" alt="Reddit" height="28px"/>
+  <img src="assets/reddit-logo-reddit-icon-transparent-free-png.png" alt="Reddit" height="28px"/>
 </a>
 </div>
 
