@@ -24,21 +24,15 @@ An IT and Cybersecurity Enthusiast with keen interest in the vast world of techn
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
   <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" height="42px"/>
 </a>
-<br>
+<br> <br>
 
 ### 📊 Github Stats
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img alt="Saiansh19's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Saiansh19&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" />
-</a>
+![Saiansh19's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Saiansh19&show_icons=true&hide_border=true&theme=light)
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saiansh19&theme=tokyonight&layout=compact&hide_border=true" />
-</a>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Saiansh19&layout=compact&hide_border=true&theme=light)
 
-<a href="https://git.io/streak-stats">
-  <img alt="GitHub Streak" src="https://streak-stats.demolab.com?user=Saiansh19&theme=tokyonight&hide_border=true" />
-</a>
+<br>
 
 
 <!---
