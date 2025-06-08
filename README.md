@@ -8,10 +8,10 @@ An IT and Cybersecurity Enthusiast with keen interest in the vast world of techn
   
 ### 🧐 More About Me:
 <br>
-- 👋🏻 Hi, I’m Saiansh
-- 👀 I take interest in learning Cybersecurity. 
-- 🌱 I’m currently learning Java and C programming languages
-- 📖 I have basic knowledge of Python and have also learnt basic DBMS software commands.
+- 👋🏻 Hi, I’m Saiansh <br>
+- 👀 I take interest in learning Cybersecurity. <br>
+- 🌱 I’m currently learning Java and C programming languages. <br>
+- 📖 I have basic knowledge of Python and have also learnt basic DBMS software commands. <br>
 <br>
 
 ### 🔨 Languages and Tools:
@@ -30,8 +30,8 @@ An IT and Cybersecurity Enthusiast with keen interest in the vast world of techn
 ### 📊 Github Stats
 <br>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Saiansh19&show_icons=true&hide_border=true&theme=gruvbox" alt="Saiansh19's GitHub Stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saiansh19&layout=compact&hide_border=true&theme=gruvbox" alt="Top Languages" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Saiansh19&show_icons=true&hide_border=true&theme=tokyonight" alt="Saiansh19's GitHub Stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saiansh19&layout=compact&hide_border=true&theme=tokyonight" alt="Top Languages" height="165"/>
 </p>
 
 <br>
