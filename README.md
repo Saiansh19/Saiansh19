@@ -13,6 +13,7 @@ An IT and Cybersecurity Enthusiast with keen interest in the vast world of techn
 - 🌱 I’m currently learning Java and C programming languages
 - 📖 I have basic knowledge of Python and have also learnt basic DBMS software commands.
 <br>
+
 ### 🔨 Languages and Tools:
 <br>
 <a href="https://www.cprogramming.com/" target="_blank">
@@ -29,9 +30,10 @@ An IT and Cybersecurity Enthusiast with keen interest in the vast world of techn
 ### 📊 Github Stats
 <br>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Saiansh19&show_icons=true&hide_border=true&theme=light" alt="Saiansh19's GitHub Stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saiansh19&layout=compact&hide_border=true&theme=light" alt="Top Languages" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Saiansh19&show_icons=true&hide_border=true&theme=gruvbox" alt="Saiansh19's GitHub Stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saiansh19&layout=compact&hide_border=true&theme=gruvbox" alt="Top Languages" height="165"/>
 </p>
+
 <br>
 
 
