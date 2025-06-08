@@ -1,5 +1,5 @@
 ## Hey 👋, I'm Saiansh!
-<a href='https://www.linkedin.com/in/saiansh-nair/'><img align='left' alt="linkedin" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/linkedin.svg" height='18px'/></a>
+<a href='https://www.linkedin.com/in/saiansh-nair/'><img align='left' alt="linkedin" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/linkedin.svg" height='18px'/></a><br>
 
 
 An IT and Cybersecurity Enthusiast with keen interest in the vast world of technology. I have proficiency in coding languages like Java and C, and basic knowledge of Python and HTML. Experience gained in configuring Linux environments and beginner-level understanding of multiple Linux terminal commands.
@@ -27,13 +27,19 @@ An IT and Cybersecurity Enthusiast with keen interest in the vast world of techn
 <br>
 
 ### 📊 Github Stats
-<a href='https://github.com/rahul-jha98/github-stats-transparent'>
-  
-![Stats Overview](https://raw.githubusercontent.com/rahul-jha98/github-stats-transparent/output/generated/overview.svg)
-![Most Used Languages](https://raw.githubusercontent.com/rahul-jha98/github-stats-transparent/output/generated/languages.svg)
 
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img alt="Saiansh19's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Saiansh19&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" />
 </a>
-<br>
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saiansh19&theme=tokyonight&layout=compact&hide_border=true" />
+</a>
+
+<a href="https://git.io/streak-stats">
+  <img alt="GitHub Streak" src="https://streak-stats.demolab.com?user=Saiansh19&theme=tokyonight&hide_border=true" />
+</a>
+
 
 <!---
 Saiansh19/Saiansh19 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
