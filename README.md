@@ -44,6 +44,3 @@ An IT and Cybersecurity Enthusiast with keen interest in the vast world of techn
   <img src="https://github-readme-stats.vercel.app/api?username=Saiansh19&show_icons=true&hide_border=true&theme=github_light" alt="Saiansh19's GitHub Stats" height="150"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saiansh19&layout=compact&hide_border=true&theme=github_light" alt="Top Languages" height="150"/>
 </p>
-
----
-/* Saiansh19/Saiansh19 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile. You can click the Preview link to take a look at your changes.*/
