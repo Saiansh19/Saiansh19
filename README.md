@@ -7,7 +7,7 @@ An IT and Cybersecurity Enthusiast with keen interest in the vast world of techn
 <br/>
   
 ### 🧐 More About Me:
-<br>
+
 - 👋🏻 Hi, I’m Saiansh <br>
 - 👀 I take interest in learning Cybersecurity. <br>
 - 🌱 I’m currently learning Java and C programming languages. <br>
@@ -25,14 +25,15 @@ An IT and Cybersecurity Enthusiast with keen interest in the vast world of techn
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
   <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" height="42px"/>
 </a>
-<br> <br>
+<br> 
 
 ### 📊 Github Stats
 <br>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Saiansh19&show_icons=true&hide_border=true&theme=tokyonight" alt="Saiansh19's GitHub Stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saiansh19&layout=compact&hide_border=true&theme=tokyonight" alt="Top Languages" height="165"/>
-</p>
+<!-- Stats Card -->
+[![Saiansh19's GitHub Statistics](https://gh-readme-profile.vercel.app/api?username=Saiansh19&show_icons=true&count_private=true&theme=default)](https://github.com/Saiansh19)
+
+<!-- Languages Card -->
+[![Most Used Languages](https://gh-readme-profile.vercel.app/api/top-langs/?username=Saiansh19&theme=default)](https://github.com/Saiansh19)
 
 <br>
 
