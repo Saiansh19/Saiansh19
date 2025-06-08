@@ -29,8 +29,10 @@ An IT and Cybersecurity Enthusiast with keen interest in the vast world of techn
 
 ### 📊 Github Stats
 <br>
-<!-- Languages Card -->
-[![Most Used Languages](https://gh-readme-profile.vercel.app/api/top-langs/?username=Saiansh19&theme=default)](https://github.com/Saiansh19)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Saiansh19&show_icons=true&hide_border=true&theme=gruvbox" height="165" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saiansh19&layout=compact&hide_border=true&theme=gruvbox" height="165" alt="Top Languages"/>
+</p>
 
 <br>
 
