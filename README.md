@@ -4,10 +4,10 @@
   <a href="https://www.linkedin.com/in/saiansh-nair/">
     <img src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/linkedin.svg" alt="LinkedIn" height="28px"/>
   </a>
-  <a href="https://www.reddit.com/user/your-reddit-username">
+  <a href="https://www.reddit.com/user/100WCharge/">
     <img src="https://iconduck.com/icons/73122/reddit-logo.svg" alt="Reddit" height="28px"/>
   </a>
-  <a href="https://zorin.com">
+  <a href="https://forum.zorin.com/u/100wcharge/summary">
     <img src="https://iconduck.com/icons/1745/zorin.svg" alt="Zorin OS" height="28px"/>
   </a>
 </div>
@@ -46,5 +46,4 @@ An IT and Cybersecurity Enthusiast with keen interest in the vast world of techn
 </p>
 
 ---
-
-> *Saiansh19/Saiansh19 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile. You can click the Preview link to take a look at your changes.*
+*Saiansh19/Saiansh19 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile. You can click the Preview link to take a look at your changes.*
