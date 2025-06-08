@@ -1,8 +1,39 @@
+## Hey 👋, I'm Saiansh!
+<a href='https://www.linkedin.com/in/saiansh-nair/'><img align='left' alt="linkedin" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/linkedin.svg" height='18px'/></a>
+
+
+An IT and Cybersecurity Enthusiast with keen interest in the vast world of technology. I have proficiency in coding languages like Java and C, and basic knowledge of Python and HTML. Experience gained in configuring Linux environments and beginner-level understanding of multiple Linux terminal commands.
+<br/>
+<br/>
+  
+### 🧐 More About Me:
+
 - 👋🏻 Hi, I’m Saiansh
 - 👀 I take interest in learning Cybersecurity. 
 - 🌱 I’m currently learning Java and C programming languages
 - 📖 I have basic knowledge of Python and have also learnt basic DBMS software commands.
 
+### 🔨 Languages and Tools:
+
+<a href="https://www.cprogramming.com/" target="_blank">
+  <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" height="42px"/>
+</a>
+<a href="https://www.java.com/" target="_blank">
+  <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" height="42px"/>
+</a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+  <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" height="42px"/>
+</a>
+<br>
+
+### 📊 Github Stats
+<a href='https://github.com/rahul-jha98/github-stats-transparent'>
+  
+![Stats Overview](https://raw.githubusercontent.com/rahul-jha98/github-stats-transparent/output/generated/overview.svg)
+![Most Used Languages](https://raw.githubusercontent.com/rahul-jha98/github-stats-transparent/output/generated/languages.svg)
+
+</a>
+<br>
 
 <!---
 Saiansh19/Saiansh19 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
