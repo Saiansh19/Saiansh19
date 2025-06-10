@@ -1,17 +1,4 @@
-## Hey 👋, I'm Saiansh!
-
-<div align="left" style="margin-bottom: 8px;">
-  <a href="https://www.linkedin.com/in/saiansh-nair/">
-    <img src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/linkedin.svg" alt="LinkedIn" height="28px"/>
-  </a>
-  <a href="https://zorin.com">
-  <img src="assets/Raster.png" alt="Zorin OS" height="28px"/>
-</a>
-<a href="https://www.reddit.com/user/your-reddit-username">
-  <img src="assets/reddit-logo-reddit-icon-transparent-free-png.png" alt="Reddit" height="28px"/>
-</a>
-</div>
-
+## Hi, I'm Saiansh!
 
 An IT and Cybersecurity Enthusiast with keen interest in the vast world of technology. I have proficiency in coding languages like Java and C, and basic knowledge of Python and HTML. Experience gained in configuring Linux environments and beginner-level understanding of multiple Linux terminal commands.
 
