@@ -6,8 +6,8 @@ An IT and Cybersecurity Enthusiast with keen interest in the vast world of techn
 
 ### 🧐 More About Me
 - 👋🏻 Hi, I’m Saiansh  
-- 👀 I take interest in learning Cybersecurity.  
-- 🌱 I’m currently learning Java and C programming languages.  
+- 👀 I'm pursuing BCA in Cybersecurity.  
+- 🌱 Currently learning Java and C programming languages.  
 - 📖 I have basic knowledge of Python and have also learnt basic DBMS software commands.  
 
 ---
