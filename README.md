@@ -14,14 +14,14 @@ An IT and Cybersecurity Enthusiast with keen interest in the vast world of techn
 
 ### 🔨 Languages and Tools
 
+<a href="https://www.python.org/" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" height="36px"/>
+</a>
 <a href="https://www.cprogramming.com/" target="_blank">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" height="36px"/>
 </a>
 <a href="https://www.java.com/" target="_blank">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" height="36px"/>
-</a>
-<a href="https://www.python.org/" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" height="36px"/>
 </a>
 
 ---
